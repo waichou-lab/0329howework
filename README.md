@@ -11,8 +11,7 @@
 \[a(x,y)\frac{\partial^2u}{\partial x^2} + b(x,y)\frac{\partial^2u}{\partial y^2} = f(x,y), \quad (x,y)\in [0,1]\times [0,1]\]
 
 其中：
-\[
-a(x,y) = ye^{\frac{x^2 + y^2}{2}}, \quad b(x,y) = xe^{\frac{x^2 + y^2}{2}}, \quad f(x,y) = xy(x + y)(xy - 3)
+\[a(x,y) = ye^{\frac{x^2 + y^2}{2}}, \quad b(x,y) = xe^{\frac{x^2 + y^2}{2}}, \quad f(x,y) = xy(x + y)(xy - 3)
 \]
 
 邊界條件：
