@@ -8,9 +8,7 @@
 
 求解下列偏微分方程式：
 
-\[
-a(x,y)\frac{\partial^2u}{\partial x^2} + b(x,y)\frac{\partial^2u}{\partial y^2} = f(x,y), \quad (x,y)\in [0,1]\times [0,1]
-\]
+\[a(x,y)\frac{\partial^2u}{\partial x^2} + b(x,y)\frac{\partial^2u}{\partial y^2} = f(x,y), \quad (x,y)\in [0,1]\times [0,1]\]
 
 其中：
 \[
